@@ -7,6 +7,7 @@ Creating a quiz website using Flask API
 - SQLAlchemy
 
 ## Project Hierarchy:
+''''
 project_root/
 │
 ├── app/
